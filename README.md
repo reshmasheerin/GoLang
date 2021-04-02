@@ -1,3 +1,3 @@
-# GoLang
+# GoLang Practice
 
 My GoLang Practice
